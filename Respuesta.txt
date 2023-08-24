@@ -1,0 +1,7 @@
+El ejecutarse o no un lenguaje depende de la arquitectura y el interprete, si uno de ellos es distinto al que le corresponde, no va a correr.
+
+Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP, Server 2003, Vista), Linux (2.2, 2.4 y 2.6), OS/2, NetBSD, FreeBSD, OpenBSD, Netware, Solaris y L4.
+
+Crea y ejecuta maquinas virtuales, aisla el sistema operativo original y los recursos de las maquinas virtuales.
+
+No afecta a las otras mv, son ambientes separados.
